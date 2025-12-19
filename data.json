@@ -5,8 +5,9 @@
     "TotalEstimation": 6136.85,
     "Status": "Ready",
     "PlannedDate": "2025-12-19T00:00:00",
-    "Remarks": "For Project-A Initial Design - Part-1 Proto\r\nGoing to place the order through online and self assembly.\r\nStatus: Still Draft (Not finalized yet)",
-    "Deducted": true
+    "Remarks": "For Project-A Initial Design - Part-1 Proto\r\nGoing to place the order through online and self assembly.\r\nStatus: Still Draft (Not finalized yet)\r\n\r\n*******Rejected due to short Purchase date*********",
+    "Deducted": true,
+    "Approval": "Rejected"
   },
   "materials": [
     {
